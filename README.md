@@ -1,1 +1,1 @@
-# projeto-pessoa
+# projeto-pessoal
