@@ -1293,51 +1293,216 @@ Faz contato?	Não
 Introduzido	Geração 1`)          
 break
 case"Swords Dance":
+          alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Tackle":
+          alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	40
+Precisão	100
+PP	35   (máx. 56)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 case"Tail Whip ":
+          alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	100
+PP	30   (máx. 48)
+Faz contato?	Não
+Introduzido	Geração `)
 break
 case"Take Down":
+          alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	90
+Precisão	85
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 case"Teleport":
+          alert(`Tipo	Psíquico
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	20   (máx. 32)
+Prioridade	-6
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Thrash":
+          alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	120
+Precisão	100
+PP	10   (máx. 16)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 case"Thunder":
+          alert(`Tipo	Elétrico
+Categoria	Especial  Especial
+Poder	110
+Precisão	70
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Thunder Punch ":
+          alert(`Tipo	Elétrico
+Categoria	Físico  Físico
+Poder	75
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 case"Thunder Shock":
+          alert(`
+Tipo	Elétrico
+Categoria	Especial  Especial
+Poder	40
+Precisão	100
+PP	30   (máx. 48)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Thunder Wave":
+          alert(`Tipo	Elétrico
+Categoria	Status  Status
+Poder	—
+Precisão	90
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Thunderbolt ":
-break
-case"Thunder Punch":
+          alert(`Tipo	Elétrico
+Categoria	Especial  Especial
+Poder	90
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Toxic":
+          alert(`
+Tipo	Tóxico
+Categoria	Status  Status
+Poder	—
+Precisão	90
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Transform":
+          alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Tri Attack":
+          alert(`Tipo	Normal
+Categoria	Especial  Especial
+Poder	80
+Precisão	100
+PP	10   (máx. 16)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Twineedle":
+          alert(`Tipo	Erro
+Categoria	Físico  Físico
+Poder	25
+Precisão	100
+PP	20   (máx. 32)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Vine Whip":
+          alert(`Tipo	Grama
+Categoria	Físico  Físico
+Poder	45
+Precisão	100
+PP	25   (máx. 40)
+Faz contato?	Sim
+Introduzido	Geração 1
+`)
 break
 case"Vise Grip":
+          alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	55
+Precisão	100
+PP	30   (máx. 48)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 case"Water Gun":
+          alert(`Tipo	Água
+Categoria	Especial  Especial
+Poder	40
+Precisão	100
+PP	25   (máx. 40)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Waterfall":
+          alert(`Tipo	Água
+Categoria	Físico  Físico
+Poder	80
+Precisão	100
+PP	15   (máx. 24)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 case"Whirlwind":
+          alert(`Tipo	Normal
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	20   (máx. 32)
+Prioridade	-6
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Wing Attack ":
+          alert(`Tipo	Vôo
+Categoria	Físico  Físico
+Poder	60
+Precisão	100
+PP	35   (máx. 56)
+Faz contato?	Sim
+Introduzido	Geração 1
+`)
 break
 case"Withdraw":
+          alert(`Tipo	Água
+Categoria	Status  Status
+Poder	—
+Precisão	—
+PP	40   (máx. 64)
+Faz contato?	Não
+Introduzido	Geração 1`)
 break
 case"Wrap":
+          alert(`Tipo	Normal
+Categoria	Físico  Físico
+Poder	15
+Precisão	90
+PP	20   (máx. 32)
+Faz contato?	Sim
+Introduzido	Geração 1`)
 break
 }
